@@ -1,0 +1,18 @@
+...
+"10": {
+            "name": "pilatus pc7",
+            "liveries": [
+                {
+                    "name": "IAF",                                                        
+                    "texture": [
+                        "https://cdn.jsdelivr.net/gh/ISHAISAMET/GEOFS-LIVERY@main/EFRONI%20IAF%201.png",       
+                        "https://cdn.jsdelivr.net/gh/ISHAISAMET/GEOFS-LIVERY@main/EFRONI%20IAF%201.png"        
+                    ],
+                    "credits": "ISHAISAMET"                                                        
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
+        },
+...
